@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 
 <div>
-<img style="float: right;" src="images/sentiment.png" width=250/>
+<img style="float: right;" src="Images/sentiment.png" width=250/>
 </div>
 
 ## Business Problem
@@ -13,11 +13,11 @@ This analysis was complete for the Marketing team at Resale Electronics. In prep
 The dataset in this analysis comes from CrowdFlower and contained tweets that referenced Google or Apple. This analysis used 9,065 tweets that were ranked by humans as having a positive, negative, or neutral sentiment. The dataset had three columns: tweet text, emotion, and product. The target variable was emotion.
 
 <div>
-<img style= src="images/positivecloud.png" width=250/>
+<img style= src="Images/positivecloud.png" width=250/>
 </div>
 
 <div>
-<img style= src="images/neutralcloud.png" width=250/>
+<img style= src="Images/neutralcloud.png" width=250/>
 </div>
 
 ## Methods
